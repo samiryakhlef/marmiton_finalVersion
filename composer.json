@@ -1,0 +1,19 @@
+{
+    "name": "samir/marmiton_final-version",
+    "description": "eval_PHP",
+    "type": "no",
+    "autoload": {
+        "psr-4": {
+            "Samir\\MarmitonFinalVersion\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "samir",
+            "email": "samir.yakhlef30@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^6.1"
+    }
+}
